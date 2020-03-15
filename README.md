@@ -1,3 +1,3 @@
 # Data_Science
 
-# these tiles are for the Data Science course assignments. 
+# these files are for the Data Science course assignments. 
